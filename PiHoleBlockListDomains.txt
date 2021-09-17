@@ -1,0 +1,12 @@
+nrdp.prod.cloud.netflix.com
+www.windows93.net
+
+# Block Windows Update
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+fe2cr.update.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+au.download.windowsupdate.com
